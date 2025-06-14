@@ -14,6 +14,12 @@ pipeline {
             }
         }
 
+        stage('Set Gradlew Permissions') {
+            steps {
+                sh 'chmod +x ./gradlew'
+            }
+        }
+
         stage('Prepare local.properties') {
             steps {
                 sh 'echo "sdk.dir=${ANDROID_HOME}" > local.properties'
@@ -45,8 +51,8 @@ pipeline {
 
         stage('Build APK') {
             steps {
-                sh 'chmod +x ./gradlew'
-                sh './gradlew clean'
+//                 sh 'chmod +x ./gradlew'
+//                 sh './gradlew clean'
                 sh './gradlew assembleDebug --stacktrace'
             }
         }
