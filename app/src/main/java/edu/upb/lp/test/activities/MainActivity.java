@@ -15,25 +15,6 @@ public class MainActivity {
         this.driver = driver;
     }
 
-    // Selector del contenedor que agrupa los botones
-    private final By botones = By.id("edu.upb.lp.genericgame:id/buttons");
-
-    // Verifica si el contenedor de botones está visible en pantalla
-    public boolean isButtonVisible() {
-        return driver.findElement(botones).isDisplayed();
-    }
-    public void tapHomeButton() {
-        driver.findElement(By.xpath("//android.widget.Button[@text='Home']")).click();
-    }
-
-    public void clickSettingsButton() {
-        driver.findElement(By.xpath("//android.widget.Button[@text='Settings']")).click();
-    }
-
-    public void clickProfileButton() {
-        driver.findElement(By.xpath("//android.widget.Button[@text='Profile']")).click();
-    }
-
     public boolean isHeaderTextVisible() {
         return Objects.requireNonNull(driver.getPageSource()).contains("Bug World");
     }
