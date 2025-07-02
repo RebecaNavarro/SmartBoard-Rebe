@@ -57,20 +57,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\3476d3fac45afda6a33d3ae8085d997e\\transformed\\jetified-savedstate-1.2.1\\res\\values\\values.xml",
+                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\acbf0a3acb4729d90015dbdb4158406a\\transformed\\activity-1.8.0\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "53",
-                        "endOffsets": "104"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,59",
+                        "endOffsets": "92,152"
                     },
                     "to": {
-                        "startLines": "1921",
-                        "startColumns": "4",
-                        "startOffsets": "126019",
-                        "endColumns": "53",
-                        "endOffsets": "126068"
+                        "startLines": "1876,1920",
+                        "startColumns": "4,4",
+                        "startOffsets": "123736,125959",
+                        "endColumns": "41,59",
+                        "endOffsets": "123773,126014"
                     }
                 },
                 {
@@ -186,24 +186,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\6f99befa81ed5a9f9e1df5b587a62dc0\\transformed\\jetified-activity-1.8.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,59",
-                        "endOffsets": "92,152"
-                    },
-                    "to": {
-                        "startLines": "1876,1920",
-                        "startColumns": "4,4",
-                        "startOffsets": "123736,125959",
-                        "endColumns": "41,59",
-                        "endOffsets": "123773,126014"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\9d4f1bb4c3214e22bd12d071f3d65dce\\transformed\\jetified-appcompat-resources-1.7.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\5bb5c88d3f2e5e59d85dc8446cf320c5\\transformed\\appcompat-resources-1.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
                         "startColumns": "4,4,4,4,4",
@@ -219,6 +202,25 @@
                         "endLines": "9427,9433,9443,13010,13014",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "648390,648568,648852,780603,780730"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\e0186355d714f00097fcb25d63b90ced\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "24",
+                        "endOffsets": "160"
+                    },
+                    "to": {
+                        "startLines": "13699",
+                        "startColumns": "4",
+                        "startOffsets": "806757",
+                        "endLines": "13701",
+                        "endColumns": "24",
+                        "endOffsets": "806862"
                     }
                 },
                 {
@@ -277,6 +279,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\1c5377454a131135878063916772e4df\\transformed\\savedstate-1.2.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "1921",
+                        "startColumns": "4",
+                        "startOffsets": "126019",
+                        "endColumns": "53",
+                        "endOffsets": "126068"
+                    }
+                },
+                {
                     "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\0a3a190cc52e3f60f4a9062b789d19e3\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -293,6 +312,23 @@
                         "endLines": "508,1150,1151,1152,1160,1161,1162,1854,12769",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25750,68112,68160,68216,68902,68978,69050,122607,772372"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\9260256023e4006cd43867c0c6f33b14\\transformed\\startup-runtime-1.1.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "2023",
+                        "startColumns": "4",
+                        "startOffsets": "132889",
+                        "endColumns": "82",
+                        "endOffsets": "132967"
                     }
                 },
                 {
@@ -329,42 +365,6 @@
                         "endLines": "470,638,639,657,658,967,968,1092,1093,1094,1095,1096,1097,1098,1786,1787,1788,1789,1790,1791,1792,1793,1794,1795,1796,1797,1798,1799,1800,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1828,1829,1830,1831,1832,1833,1834,1835,1836,1837,1838,1839,1840,1841,1842,1843,1844,1845,1855,1856,1885,1886,1887,1888,1889,1890,1891,1892,1893,1894,1895,1896,1897,1898,1899,1907,1991,2032,2033,2034,2035,2036,2037,2038,2172,6105,6109,6110,6114,6115,7239,7240,10269,10631,11498,11519,11567,11573",
                         "endColumns": "59,71,87,64,65,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,66,71,68,68,73,71,87,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "24144,32565,32653,33880,33946,56301,56364,64310,64378,64450,64520,64581,64655,64728,118388,118449,118511,118575,118637,118698,118766,118866,118926,118992,119065,119134,119191,119243,119305,120107,120183,120248,120307,120366,120426,120486,120546,120606,120666,120726,120786,120846,120906,120966,121025,121085,121145,121205,121265,121325,121385,121445,121505,121565,121625,121684,121744,121804,121863,121922,121981,122040,122099,122158,122642,122677,124216,124279,124334,124392,124450,124511,124574,124631,124682,124732,124793,124850,124916,124950,124985,125367,130698,134318,134390,134459,134528,134602,134674,134762,153428,428499,428700,428810,429011,429140,509972,510039,677477,690160,725477,726158,727384,727551"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\8219a4bb04996abed7a7bcfb6a2be635\\transformed\\jetified-startup-runtime-1.1.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "2023",
-                        "startColumns": "4",
-                        "startOffsets": "132889",
-                        "endColumns": "82",
-                        "endOffsets": "132967"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\redmobook\\.gradle\\caches\\8.11\\transforms\\ceb3e22a0d0017d4203813d4f2fc4656\\transformed\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "24",
-                        "endOffsets": "160"
-                    },
-                    "to": {
-                        "startLines": "13699",
-                        "startColumns": "4",
-                        "startOffsets": "806757",
-                        "endLines": "13701",
-                        "endColumns": "24",
-                        "endOffsets": "806862"
                     }
                 }
             ]
