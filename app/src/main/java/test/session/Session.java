@@ -37,7 +37,12 @@ public class Session {
         device.quit();
         session = null;
     }
-
+    public static void resetInstance() {
+        if (session != null) {
+            session.device.quit();
+            session = null;
+        }
+    }
     public AppiumDriver getDevice(){
         return  device;
     }
